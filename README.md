@@ -1,4 +1,4 @@
-﻿﻿# Books Directory
+# Books Directory
 It is a basic REST Api to add, update, and delete books.
 
 # How to run this api locally
